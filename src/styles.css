@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: poppins;
+  src: url(assets/fonts/Poppins/Poppins-Bold.ttf) format(truetype);
+}
+.poppins {
+  font-family: poppins;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

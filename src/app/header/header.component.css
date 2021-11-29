@@ -1,0 +1,29 @@
+nav img {
+  width: 80px;
+  padding: 10px;
+}
+nav {
+  background-color: #3b559f;
+  margin-bottom: 30px;
+}
+ul {
+  float: right;
+  padding: 12px 50px;
+  list-style-type: none;
+}
+li {
+  display: inline-block;
+  padding: 10px;
+}
+li a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li a:hover {
+  color: #df1e34;
+  border-bottom: 1px solid white;
+  transition: 0.4s;
+}
